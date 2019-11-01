@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40c428c1-fc92-4912-b03f-931cf77b9cc4" name="Default Changelist" comment="" />
+    <list default="true" id="40c428c1-fc92-4912-b03f-931cf77b9cc4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/kubernetes/mysql-configmap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kubernetes/mysql-deployment.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kubernetes/mysql-pv.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kubernetes/mysql-secret.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kubernetes/spring-boot-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-spring-boot-mysql-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-spring-boot-mysql-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-spring-boot-mysql-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-spring-boot-mysql-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.wanderlust.app.SpringBootHelloWorldApplicationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.wanderlust.app.SpringBootHelloWorldApplicationTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.wanderlust.app.SpringBootHelloWorldApplicationTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.wanderlust.app.SpringBootHelloWorldApplicationTest.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +30,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +41,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1StZXd3XgdgxLP8VQVhPDOpNQZs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/franklu" />
   </component>
@@ -86,5 +106,18 @@
       <updated>1572384892447</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
